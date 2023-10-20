@@ -7,7 +7,7 @@ Deployed assignment: https://smallfly4702.github.io/wk1-assignment
 
 ## Instructions
 
-You can install my project by cloning it via Git Bash/Terminal and using 'code .' after navigating to the desired directory you would like to modify using the 'cd' command.
+You can install my project by using Git Bash/Terminal to clone, navigate, and modify the repository using your desired IDE.
 
 The website can be visited by opening the 'index.html' file using any web browser or by visiting: https://smallfly4702.github.io/wk1-assignment.
 
