@@ -1,15 +1,16 @@
 ## wk1-assignment
-This repository is for the week 1 assignment for a web development bootcamp.
 
-I am completing this assignment to further develop my skills in web development by learning how to use Github and script in HTML and CSS. Completion of this bootcamp will help me start a career in web development.
+In this repository I am modifying existing 'index.html' and 'style.css' files so the codebase follows accessibility standards and is optimized for search engines.
 
-Deployed assignment: https://smallfly4702.github.io/wk1-assignment
+This is my submission for the week 1 assignemnt for a web development skills bootcamp which I am completing to develop my skillset and start a career within web development.
+
+Deployed website: https://smallfly4702.github.io/wk1-assignment
 
 ## Instructions
 
-You can install my project by using Git Bash/Terminal to clone, navigate, and modify the repository using your desired IDE.
+You can install this project by using Git Bash/Terminal to clone, navigate, and modify the repository. Using your desired IDE (such as Visual Studio Code), you can modify the files within this repository.
 
-The website can be visited by opening the 'index.html' file using any web browser or by visiting: https://smallfly4702.github.io/wk1-assignment.
+The website can be viewed by opening the 'index.html' file using any web browser or by visiting: https://smallfly4702.github.io/wk1-assignment.
 
 ## License
 
