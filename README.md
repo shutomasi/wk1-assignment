@@ -4,8 +4,6 @@ In this repository I am modifying existing 'index.html' and 'style.css' files so
 
 This is my submission for the week 1 assignemnt for a web development skills bootcamp which I am completing to develop my skillset and start a career within web development.
 
-Deployed website: https://smallfly4702.github.io/wk1-assignment
-
 ## Instructions
 
 You can install this project by using Git Bash/Terminal to clone, navigate, and modify the repository. Using your desired IDE (such as Visual Studio Code), you can modify the files within this repository.
